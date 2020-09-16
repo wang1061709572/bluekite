@@ -6,10 +6,12 @@
     "build": "vite build"
   },
   "dependencies": {
+    "koa": "^2.13.0",
+    "koa-static": "^5.0.0",
     "vue": "^3.0.0-rc.1"
   },
   "devDependencies": {
-    "vite": "^1.0.0-rc.1",
-    "@vue/compiler-sfc": "^3.0.0-rc.1"
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "vite": "^1.0.0-rc.1"
   }
 }
